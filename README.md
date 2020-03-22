@@ -15,7 +15,7 @@ Setup an API that returns Json formatted results from a serverless python applic
 * Passing a paramater to the API and have python use that paramater to run a function.
 
 
-# Notest
+# Notes
 ### How to import pymysql to Lambda
 * download the files we need to the current directory
 ```
